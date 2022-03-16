@@ -1,4 +1,4 @@
-# Fase 1. Opzetten werkomgeving
+# Fase 1. Opzetten werkomgevinguuuuu
 
 In deze cursus maak je gebruik van verschillende softwarepakketten en tools. In deze fase installeren we de nodige applicaties en maken de nodige configuratie-aanpassingen om efficiënt te kunnen werken.
 
